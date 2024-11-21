@@ -1,4 +1,4 @@
-## Oi! Eu sou o Vitor, estudante e apaixonado por programação e tecnologia.
+## Muito prazer! Eu sou o Vitor, estudante e apaixonado por programação e tecnologia.
 
 <div style="display: inline_block"><br>
    
